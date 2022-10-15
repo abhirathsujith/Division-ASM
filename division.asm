@@ -1,0 +1,6 @@
+ORG 0000H
+	MOV A,#20
+	MOV B,#10H
+	DIV AB
+	END
+	
